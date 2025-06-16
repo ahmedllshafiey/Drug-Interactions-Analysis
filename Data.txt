@@ -1,0 +1,46 @@
+Profession Distribution:
+Dentist: 4
+Medical Doctor: 32
+Nurse: 9
+Pharmacist: 119
+Physiotherapist: 6
+Others: 5
+
+Self-Rated Knowledge Levels Regarding Drug Interactions:
+1 (Lowest): 13.1%
+2: 16.0%
+3: 36.0%
+4: 20.6%
+5 (Highest): 14.3%
+
+Primary Source of Information (Top 4):
+Medical applications like Medscape & Micromedex: 174
+Work colleagues and personal experiences: 162
+Scientific journals: 155
+Training courses and workshops: 145
+
+Use of Software for Drug Interaction Checks:
+Yes: 101
+No: 74
+
+Documentation of Harmful Drug Interactions:
+Yes: 101
+No: 74
+
+Need for More Training About Drug Interactions:
+Yes, strongly: 128
+Yes, somewhat: 44
+No current training is sufficient: 2
+No, current training is sufficient: 1
+
+Preferred Learning Tools to Improve DDI Knowledge:
+Workshops: 41.1%
+Online courses: 38.3%
+Mobile applications: 11.4%
+Printed guidelines: 9.1%
+
+Main Barriers to ADR Reporting:
+Lack of awareness: 41.7%
+Lack of time: 29.2%
+Lack of feedback: 16.7%
+Complex reporting process: 12.5%
